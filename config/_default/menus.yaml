@@ -1,0 +1,13 @@
+main:
+  - name: About
+    url: 'about'
+    weight: 10
+  - name: Posts
+    url: /posts/
+    weight: 20
+#  - name: Docs
+#    url: /docs/
+#    weight: 30
+  - name: Series
+    url: /series/
+    weight: 40
