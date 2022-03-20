@@ -41,10 +41,10 @@ math:
 
 comment:
   # Options: disqus, commento, valine and utterances.
-  handler: disqus
+  handler: 
 
   disqus:
-    shortname: groktopus-1
+    shortname: 
 
   # utterances:
   #   # Browse https://utteranc.es/ to see the options available.
