@@ -9,7 +9,7 @@ dateFormat: "Jan 2, 2006 at 3:04pm (MST)"
 titleSeparator: |
 
 # Options: auto, light and dark. Default is auto.
-colorScheme: dark
+colorScheme: light
 
 # E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
 siteType: Organization

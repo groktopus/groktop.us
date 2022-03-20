@@ -12,6 +12,7 @@ featuredVideo:
 featuredImage:
 draft: false
 weight: 10
+comments: false
 ---
 
 TBD. Eventually.
