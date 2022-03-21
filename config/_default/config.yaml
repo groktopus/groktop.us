@@ -13,7 +13,7 @@ paginate: 3
 copyright: >
   &copy; 2022 <a href="https://magnus919.com/">Magnus Hedemark</a>
 enableEmoji: true
-enableGitInfo: false
+enableGitInfo: true 
 summaryLength: 75
 
 defaultContentLanguage: en
