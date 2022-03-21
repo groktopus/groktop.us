@@ -2,7 +2,9 @@ baseURL: https://groktop.us/
 title: groktopus
 
 # Uncomment when not installing with Hugo Modules
-theme: hugo-eureka
+theme:
+  - hugo-notice
+  - hugo-eureka
 # Comment when not installing with Hugo Modules
 #theme: wangchucheng.com/hugo-eureka
 # If you cannot access the Github mirror, you can also use the Gitee mirror: gitee.com/wangchucheng/hugo-eureka

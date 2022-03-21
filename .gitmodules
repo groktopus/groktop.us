@@ -1,3 +1,6 @@
 [submodule "themes/hugo-eureka"]
 	path = themes/hugo-eureka
 	url = https://github.com/wangchucheng/hugo-eureka.git
+[submodule "themes/hugo-notice"]
+	path = themes/hugo-notice
+	url = https://github.com/martignoni/hugo-notice.git
