@@ -2,7 +2,7 @@
 title: {{ replace .Name "-" " " | title }}
 description:
 toc: true
-author:
+authors:
 tags:
   -
 categories:

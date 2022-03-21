@@ -2,7 +2,7 @@
 title: Homeassistant and Sonos vs. Docker Bridge Network
 description: Running Home Assistant inside of a Docker bridge network can cause issues with its integrations like Sonos. But these aren't insurmountable. I'll show you how I got it working. 
 toc: true
-author: magnus
+authors: magnus
 tags:
   - Home Assistant
   - home automation
