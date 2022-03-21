@@ -2,8 +2,7 @@
 title: {{ replace .Name "-" " " | title }}
 description:
 toc: true
-authors:
-  -
+author:
 tags:
   -
 categories:
@@ -12,6 +11,7 @@ series:
   -
 date: {{ .Date }}
 lastmod: {{ .Date }}
+publishDate: {{ .Date }}
 featuredVideo:
 featuredImage:
 thumbnail: 
