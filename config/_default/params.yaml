@@ -1,3 +1,4 @@
+title: groktopus 
 mainSections:
   - posts
 description: Tasty posts to feed your brain.
@@ -78,5 +79,9 @@ diagram:
       diagram-padding:
 
 twitter_cards: true 
+
 images:
   - images/groktopus.png
+
+taxonomies:
+  series: series 
