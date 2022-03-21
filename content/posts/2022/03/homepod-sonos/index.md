@@ -1,5 +1,5 @@
 ---
-title: {{ replace .Name "-" " " | title }}
+title: Homepod Sonos
 description:
 toc: true
 authors:
@@ -10,8 +10,8 @@ categories:
   -
 series:
   -
-date: {{ .Date }}
-lastmod: {{ .Date }}
+date: 2022-03-21T08:53:13-04:00
+lastmod: 2022-03-21T08:53:13-04:00
 featuredVideo:
 featuredImage:
 thumbnail: 

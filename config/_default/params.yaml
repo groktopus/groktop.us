@@ -76,3 +76,7 @@ diagram:
     theme: 
     flowchart:
       diagram-padding:
+
+twitter_cards: true 
+images:
+  - images/groktopus.png
