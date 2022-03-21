@@ -10,7 +10,7 @@ date: 2022-03-20T22:06:59-04:00
 lastmod: 2022-03-20T22:06:59-04:00
 featuredVideo:
 featuredImage: homeassistant-sonos/sonos.png
-draft: true
+draft: false
 ---
 
 {{% notice warning %}}
