@@ -5,7 +5,6 @@
 {{ with $icon }}
 {{ with .Params.images }}{{ range first 6 . }}<meta property="og:image" content="{{ if in . "http" }}{{ . }}{{ else }}{{ $baseurl }}{{ . }}{{ end }}" />
 {{ end }}
-{{ end }}
 
 <meta property="og:url" content="{{ .Permalink }}" />
 
