@@ -1,9 +1,8 @@
-{{ $baseurl := .Site.BaseURL }}
 <meta property="og:title" content="{{ partial "get-title" . }}" />
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
 {{ $icon := partial "utils/get-image" (dict "context" . "url" .Site.Params.icon) }}
 {{ with $icon }}
-{{ with .Params.images }}{{ range first 6 . }}<meta property="og:image" content="{{ if in . "http" }}{{ . }}{{ else }}{{ $baseurl }}{{ . }}{{ end }}" />
+<meta property="og:image" content="{{ .Site.BaseURL }}{{ .Params.thumbnail }}">
 {{ end }}
 
 <meta property="og:url" content="{{ .Permalink }}" />
