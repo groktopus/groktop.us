@@ -2,10 +2,7 @@
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
 {{ $icon := partial "utils/get-image" (dict "context" . "url" .Site.Params.icon) }}
 {{ with $icon }}
-{{ if .Params.og_image }}
-<meta property="og:image" content="{{ .Params.og_image | absURL }}"/>
-{{ else }}
-<meta property="og:image" content="{{ .Site.Params.og_image | absURL }}"/>
+{{ with .Params.images }}{{ range first 6 . }}<meta property="og:image" content="{{ if in . "http" }}{{ . }}{{ else }}{{ $baseurl }}{{ . }}{{ end }}" />
 {{ end }}
 {{ end }}
 
