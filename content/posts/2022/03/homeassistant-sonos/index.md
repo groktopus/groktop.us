@@ -6,7 +6,7 @@ authors: magnus
 tags:
   - Home Assistant
   - home automation
-  - donos
+  - sonos
   - docker
   - homelab
   - traefik
