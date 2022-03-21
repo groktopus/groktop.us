@@ -2,7 +2,7 @@
 title: Homeassistant and Sonos vs. Docker Bridge Network
 description: Running Home Assistant and its 
 toc: true
-authors: []
+authors: [magnus]
 tags: [Home Assistant, home automation, Sonos, Docker, homelab, traefik]
 categories: [Home Assistant, home automation, homelab]
 series: [Stupid Home Assistant Tricks, Stupid Docker Tricks]
@@ -10,6 +10,9 @@ date: 2022-03-20T22:06:59-04:00
 lastmod: 2022-03-20T22:06:59-04:00
 featuredVideo:
 featuredImage: posts/2022/03/homeassistant-sonos/sonos.png
+thumbnail: posts/2022/03/homeassistant-sonos/sonos.png
+images:
+  - posts/2022/03/homeassistant-sonos/sonos.png
 draft: false
 ---
 
