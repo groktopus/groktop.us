@@ -168,9 +168,13 @@
 {{ end }}
 
 {{- partial "components/schema" . }}
+/* the theme's opengraph cards suck. Let's try hugo internal instead. 
 {{- partial "components/opengraph" . }}
+{{ template "_internal/opengraph.html" . }}
 {{ template "_internal/twitter_cards.html" . }}
-
+*/
+{{- partial "components/twitter" . }}
+{{- partial "components/opengraph" . }}
 
 {{- range .AlternativeOutputFormats }}
 {{- printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}

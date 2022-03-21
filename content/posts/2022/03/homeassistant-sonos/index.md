@@ -23,6 +23,7 @@ featuredImage: posts/2022/03/homeassistant-sonos/sonos.png
 thumbnail: posts/2022/03/homeassistant-sonos/sonos.png
 images:
   - posts/2022/03/homeassistant-sonos/sonos.png
+image: posts/2022/03/homeassistant-sonos/sonos.png  
 draft: false
 ---
 

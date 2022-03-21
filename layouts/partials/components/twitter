@@ -1,0 +1,18 @@
+    <!-- Start of Twitter -->
+    {{ if .Site.Params.twitter_card_whitelisted }}
+        {{ if .Params.twitter_summary }}
+    <meta property="twitter:card" content="{{ .Params.twitter_summary }}">
+        {{ else if .Description }}
+    <meta property="twitter:card" content="{{ .Description }}">
+        {{ else }}
+    <meta property="twitter:card" content="{{ .Title }}">
+        {{ end }}
+    {{ end }}
+    <meta property="twitter:description" content="{{ .Description }}">
+    <meta property="twitter:title" content="{{ .Title }}">
+    <meta property="twitter:creator" content="{{ .Site.Params.twitterAuthor }}">
+    <meta property="twitter:site" content="{{ .Site.Params.twitterSite }}">
+    {{ if .Params.thumbnail }}
+    <meta property="twitter:image" content="{{ .Site.BaseURL }}{{ .Params.thumbnail }}">
+    {{ end }}
+    <!-- End of Twitter -->

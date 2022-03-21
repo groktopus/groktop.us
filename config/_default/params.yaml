@@ -79,6 +79,8 @@ diagram:
       diagram-padding:
 
 twitter_cards: true 
+twitterAuthor: "@Magnus919"
+twitterSite: "@groktopus"
 
 images:
   - images/groktopus.png
