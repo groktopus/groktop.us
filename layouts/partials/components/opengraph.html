@@ -1,3 +1,4 @@
+{{ $baseurl := .Site.BaseURL }}
 <meta property="og:title" content="{{ partial "get-title" . }}" />
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
 {{ $icon := partial "utils/get-image" (dict "context" . "url" .Site.Params.icon) }}
