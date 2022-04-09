@@ -10,7 +10,7 @@ categories:
 series:
   - Bucket List
 date: 2022-04-09T15:13:42-04:00
-lastmod: 2022-04-09T15:13:42-04:00
+lastmod: 2022-04-09T17:18:42-04:00
 publishDate: 2022-04-09T15:13:42-04:00
 featuredVideo:
 featuredImage: featuredimage.jpg
@@ -52,3 +52,4 @@ This list will be a living document. I will add things to it as I think of them,
 * Save one species from extinction (in progress!)
 * Either start my own company, or become co-owner/partner of one and serve in the C suite
 * Learn how to produce YouTube videos worth watching
+* Write and publish a book.
