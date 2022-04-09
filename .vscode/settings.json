@@ -1,0 +1,4 @@
+{
+    "gohugo.config": "config/_default/config.yaml",
+    "gohugo.showTerminal": "true"
+}
