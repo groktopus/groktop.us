@@ -2,7 +2,7 @@
 title: My Bucketlist
 description: I thought it would be a good idea to capture a list of some of the things I'd like to accomplish before I die. And what better way to hold myself accountable for completing them than to share them publicly?
 toc: true
-authors: magnus
+authors: ["magnus"]
 tags:
   - bucketlist
 categories:
