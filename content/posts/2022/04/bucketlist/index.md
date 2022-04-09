@@ -17,7 +17,7 @@ featuredImage: featuredimage.jpg
 thumbnail: thumbnail.jpg
 weight: 1
 images:
-  -
+  - posts/2022/04/bucketlist/thumbnail.jpg
 draft: false
 ---
 
