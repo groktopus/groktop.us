@@ -53,3 +53,4 @@ This list will be a living document. I will add things to it as I think of them,
 * Either start my own company, or become co-owner/partner of one and serve in the C suite
 * Learn how to produce YouTube videos worth watching
 * Write and publish a book.
+* Do something so good for the world that someone like Anderson Cooper wants to tell their audience about it.
