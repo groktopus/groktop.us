@@ -9,12 +9,11 @@ paginate = 5
   showMenuItems = 2
   fullWidthTheme = false
   centerTheme = false
-  repoEditURL = "https://github.com/groktopus/groktop.us"
 
 [languages]
   [languages.en]
-    title = "groktopus"
-    subtitle = "to be is to know"
+    title = "Terminal"
+    subtitle = "A simple, retro theme for Hugo"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -22,7 +21,7 @@ paginate = 5
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "groktopus"
+      logoText = "Terminal"
       logoHomeLink = "/"
 
     [languages.en.menu]
