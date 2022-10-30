@@ -69,7 +69,7 @@ titleSeparator: "|"
 #diagram:
 #  handler: mermaid
 
-  mermaid:
+#  mermaid:
   #   # Browse https://mermaid-js.github.io/mermaid/#/Setup to see the options available.
   #   # You can list the key and value you want as below.
   #   # Because Hugo's config params are case-insensitive, you need to add `-` or `_` before the uppercase letters.
