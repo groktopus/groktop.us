@@ -3,25 +3,6 @@ en:
   languageName: English
   # Uncomment for multilingual sites, and move the default content into corresponding sub-folder.
   # contentDir: content/en
-  title: "groktopus"
-  subtitle: "stuff about things"
-  keywords: ""
-  copyright: ""
-  menuMore: "Show more"
-  readMore: "Read more"
-  readOtherPosts: "Read other posts"
-  params:
-    logo:
-      logoText: "groktopus"
-      logoHomeLink: "/"
-  menu:
-    main:
-      about:
-        name: "about"
-        url: "/about"
-      showcase:
-        name: "showcase"
-        url: "/showcase"  
 
 
 # Uncomment for multilingual sites, and customize the following config.
