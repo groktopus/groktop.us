@@ -27,10 +27,6 @@ image: posts/2022/03/homeassistant-sonos/sonos.png
 draft: false
 ---
 
-{{% notice warning %}}
-This is not for casual users. Container networking is not for the faint of heart. We're going to be breaking some rules. And doing some reverse proxying. This isn't a beginner tutorial, but rather some notes for those who are brave & foolish enough to wander in this direction.
-{{% /notice %}}
-
 The official Home Assistant [documentation](https://www.home-assistant.io/installation/linux#install-home-assistant-container) suggests that when running inside of Docker, `host` networking should be enabled. But since this creates a situation where the container network cannot be... *contained*, I decided to try running Home Assistant inside of a `bridge` network.
 
 The same documentation says that one must use `privileged` mode for Home Assistant to work. I'm not finding that to be true.
