@@ -3,9 +3,6 @@ title: "groktopus"
 #  - posts
 description: "Tasty posts to feed your brain."
 
-logo:
-  logoText: "groktopus"
-
 repoEditURL: "https://github.com/groktopus/groktop.us"
 
 dateFormat: "Jan 2, 2006 at 3:04pm (MST)"
