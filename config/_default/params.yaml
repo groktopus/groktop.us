@@ -1,36 +1,36 @@
-title: groktopus 
-mainSections:
-  - posts
-description: Tasty posts to feed your brain.
+title: "groktopus" 
+#mainSections:
+#  - posts
+description: "Tasty posts to feed your brain."
 
-repoEditURL: https://github.com/groktopus/groktop.us
+repoEditURL: "https://github.com/groktopus/groktop.us"
 
 dateFormat: "Jan 2, 2006 at 3:04pm (MST)"
 
-titleSeparator: |
+titleSeparator: "|"
 
 # Options: auto, light and dark. Default is auto.
-colorScheme: light
+#colorScheme: light
 
 # E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
-siteType: Organization
-icon: images/icon.png
-publisherName: groktopus
-publisherLogo: images/groktopus.png
+#siteType: Organization
+#icon: images/icon.png
+#publisherName: groktopus
+#publisherLogo: images/groktopus.png
 
-highlight:
-  handler: highlightjs
-
-  highlightjs:
-    # highlight.js doesn't bundle every language. So please specify additional languages you want here.
-    # See https://github.com/highlightjs/cdn-release/tree/master/build/languages for available languages.
-    languages:
-      - dart
-    # See https://github.com/highlightjs/cdn-release/tree/master/build/styles for available styles.
-    style: solarized-light
-
-math:
-  handler: katex
+#highlight:
+#  handler: highlightjs
+#
+#  highlightjs:
+#    # highlight.js doesn't bundle every language. So please specify additional languages you want here.
+#    # See https://github.com/highlightjs/cdn-release/tree/master/build/languages for available languages.
+#    languages:
+#      - dart
+#    # See https://github.com/highlightjs/cdn-release/tree/master/build/styles for available styles.
+#    style: solarized-light
+#
+#math:
+#  handler: katex
 
   # katex:
   #   # Browse https://katex.org/docs/options.html to see the options available.
@@ -40,12 +40,12 @@ math:
   #   # For example, `throwOnError` should be written as `throw-On-Error` or other acceptable formats.
   #   leqno:
 
-comment:
-  # Options: disqus, commento, valine and utterances.
-  handler: 
-
-  disqus:
-    shortname: 
+#comment:
+#  # Options: disqus, commento, valine and utterances.
+#  handler: 
+#
+#  disqus:
+#    shortname: 
 
   # utterances:
   #   # Browse https://utteranc.es/ to see the options available.
@@ -66,27 +66,27 @@ comment:
   #   app-Id:
   #   app-Key:
 
-diagram:
-  handler: mermaid
+#diagram:
+#  handler: mermaid
 
   mermaid:
   #   # Browse https://mermaid-js.github.io/mermaid/#/Setup to see the options available.
   #   # You can list the key and value you want as below.
   #   # Because Hugo's config params are case-insensitive, you need to add `-` or `_` before the uppercase letters.
   #   # For example, `diagramPadding` should be written as `diagram-Padding` or other acceptable formats.
-    theme: 
-    flowchart:
-      diagram-padding:
+#    theme: 
+#    flowchart:
+#      diagram-padding:
 
-twitter_cards: true 
-twitterAuthor: "@Magnus919"
-twitterSite: "@groktopus"
+#twitter_cards: true 
+#twitterAuthor: "@Magnus919"
+#twitterSite: "@groktopus"
 
-images:
-  - images/groktopus.png
+#images:
+#  - images/groktopus.png
 
-taxonomies:
-  series: series 
+#taxonomies:
+#  series: series 
 
-author: Groktopus   
-locale: en_US
+#author: Groktopus   
+#locale: en_US
