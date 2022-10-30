@@ -26,9 +26,7 @@ draft: false
 
 I quite liked this description:
 
-{{< blockquote author="Annette at Bucket List Journey" link="https://bucketlistjourney.net/" >}}
-What is a bucket list? Simply put, it is a collection of goals, dreams and aspirations that you would like to accomplish within your lifetime. The basic meaning of a bucket list is to keep track of your goals and to take steps to achieving these goals in order to maximize the incredible experiences in your life.
-{{</ blockquote >}}
+> What is a bucket list? Simply put, it is a collection of goals, dreams and aspirations that you would like to accomplish within your lifetime. The basic meaning of a bucket list is to keep track of your goals and to take steps to achieving these goals in order to maximize the incredible experiences in your life.
 
 For an Autistic person who has to work very hard to manage sensory and social overload, I've probably had a much more interesting life so far than most people would ever suspect. That's not to say I'm content to just roll over and die without getting anything more done.
 
