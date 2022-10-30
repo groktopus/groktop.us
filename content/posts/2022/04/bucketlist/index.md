@@ -21,9 +21,6 @@ images:
 draft: false
 ---
 
-{{< notice >}}
-Featured image by <a href="https://unsplash.com/@filbertmang?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Fransiskus Filbert Mangundap</a> on <a href="https://unsplash.com/s/photos/bucket-list?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-{{< /notice >}}
 
 ## What is a "bucket list"? 
 
@@ -36,9 +33,6 @@ What is a bucket list? Simply put, it is a collection of goals, dreams and aspir
 For an Autistic person who has to work very hard to manage sensory and social overload, I've probably had a much more interesting life so far than most people would ever suspect. That's not to say I'm content to just roll over and die without getting anything more done.
 
 ## The List
-{{< notice info >}}
-This list will be a living document. I will add things to it as I think of them, link to new adventures related to this list as I write about them, and generally change things around as I go.
-{{</ notice >}}
 
 ### Done
 * :white_check_mark: ride a motorcycle
