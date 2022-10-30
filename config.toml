@@ -10,14 +10,6 @@ paginate = 5
   fullWidthTheme = false
   centerTheme = false
   repoEditURL = "https://github.com/groktopus/groktop.us"
-  siteType = "Organization"
-  icon = "images/icon.png"
-  publisherName = "groktopus"
-  publisherLogo = "images/groktopus.png"
-  twitter_cards = true
-  twitterAuthor = "@Magnus919"
-  twitterSite = "@groktopus"
-
 
 [languages]
   [languages.en]
