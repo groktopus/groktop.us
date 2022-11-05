@@ -1,15 +1,8 @@
-[submodule "themes/hugo-eureka"]
-	path = themes/hugo-eureka
-	url = https://github.com/wangchucheng/hugo-eureka.git
 [submodule "themes/hugo-notice"]
 	path = themes/hugo-notice
-	url = https://github.com/martignoni/hugo-notice.git
+#	url = https://github.com/martignoni/hugo-notice.git
+	url = git@github.com:martignoni/hugo-notice.git
 [submodule "themes/terminal"]
 	path = themes/terminal
-	url = https://github.com/panr/hugo-theme-terminal.git
-[submodule "themes/eureka"]
-	path = themes/eureka
-	url = https://github.com/wangchucheng/hugo-eureka.git
-[submodule "themes/maverick"]
-	path = themes/maverick
-	url = https://github.com/canhtran/maverick.git
+#	url = https://github.com/panr/hugo-theme-terminal.git
+	url = git@github.com:panr/hugo-theme-terminal.git
