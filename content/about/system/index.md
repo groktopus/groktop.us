@@ -1,6 +1,6 @@
 ---
 title: System
-description:
+description: A little information about how this site is hosted.
 toc: false
 authors: magnus
 tags:
