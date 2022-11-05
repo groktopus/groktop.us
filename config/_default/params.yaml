@@ -78,9 +78,13 @@ titleSeparator: "|"
 #    flowchart:
 #      diagram-padding:
 
-#twitter_cards: true 
-#twitterAuthor: "@Magnus919"
-#twitterSite: "@groktopus"
+twitter_cards: true 
+twitterAuthor: "@Magnus919"
+twitterSite: "@groktopus"
+
+twitter:
+  creator: "@Magnus919"
+  site: "@groktopus"
 
 #images:
 #  - images/groktopus.png
