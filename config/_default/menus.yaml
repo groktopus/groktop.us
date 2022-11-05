@@ -2,6 +2,6 @@ main:
   - identifier: about
     name: About
     url: /about
-  - identifier: showcase
-    name: Showcase
-    url: /showcase
+#  - identifier: showcase
+#    name: Showcase
+#    url: /showcase
