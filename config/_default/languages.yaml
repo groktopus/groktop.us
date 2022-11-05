@@ -8,7 +8,7 @@ en:
 
   params:
     logo:
-      logoText: "Terminal"
+      logoText: "groktopus"
       logoHomeLink: "/"
 
 
