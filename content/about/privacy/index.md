@@ -15,4 +15,6 @@ weight: 10
 comments: false
 ---
 
-TBD. Eventually.
+This site doesn't, to the best of my understanding, keep any data about you locally. It's a static web site. There are no dynamic features here that require keeping data about you.
+
+We do, however, use *Google Analytics* as a third party tracking system for looking at aggregate trends.
