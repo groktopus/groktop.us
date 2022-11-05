@@ -15,7 +15,6 @@ publishDate: 2022-04-09T15:13:42-04:00
 featuredVideo:
 featuredImage: featuredimage.jpg
 thumbnail: thumbnail.jpg
-weight: 1
 images:
   - posts/2022/04/bucketlist/thumbnail.jpg
 draft: false
