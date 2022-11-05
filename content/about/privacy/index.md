@@ -1,7 +1,7 @@
 ---
 title: Privacy Policy
 description: Our privacy policy.
-toc: true
+toc: false
 authors: []
 tags: []
 categories: []
