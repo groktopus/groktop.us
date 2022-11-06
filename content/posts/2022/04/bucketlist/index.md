@@ -10,11 +10,11 @@ categories:
 series:
   - Bucket List
 date: 2022-04-09T15:13:42-04:00
-lastmod: 2022-04-09T17:18:42-04:00
+lastmod: 2022-11-05T21:33:42-04:00
 publishDate: 2022-04-09T15:13:42-04:00
 featuredVideo:
-featuredImage: featuredimage.jpg
-thumbnail: thumbnail.jpg
+featuredImage: posts/2022/04/bucketlist/featuredimage.jpg
+thumbnail: posts/2022/04/bucketlist/thumbnail.jpg
 images:
   - posts/2022/04/bucketlist/thumbnail.jpg
 draft: false
