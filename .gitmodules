@@ -12,3 +12,6 @@
 [submodule "themes/Blonde"]
 	path = themes/Blonde
 	url = https://github.com/opera7133/Blonde
+[submodule "themes/blogge"]
+	path = themes/blogge
+	url = https://github.com/StaticMania/blogge-hugo-theme.git
